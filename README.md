@@ -55,7 +55,6 @@ The system uses a Siamese Neural Network for face verification based on similari
 ├── Backend/            # FastAPI, Model logic, and Dockerfile
 │   ├── facial_recognition_model.py       # Trained Siamese CNN model
 │   └── facial_api.py         # API endpoints
-├── docker-compose.yml  # Orchestration for the full stack
 
 ```
 
