@@ -6,7 +6,7 @@ It is served through a **FastAPI backend**, connected to a **Next.js frontend**,
 
 
 ## Demo
-Watch the application in action: [View Demo Video](https://youtu.be/P-IIM5gznRc)
+Watch the application in action: [View Demo Video]([https://youtu.be/P-IIM5gznRc](https://www.youtube.com/watch?v=Yf_uOw9IzcQ))
 
 ---
 
