@@ -12,23 +12,6 @@ Watch the application in action: [View Demo Video](https://youtu.be/Yf_uOw9IzcQ?
 ## Installation & Setup
 
 ### 1. Frontend Setup
-```bash
-cd Frontend
-npm install
-npm install next@latest react@latest react-dom@lates
-npm run dev
----
-
-## Installation & Setup
-
-### 1. Frontend Setup
-```bash
-cd Frontend
-npm install
-npm install next@latest react@latest react-dom@lates
-npm run dev
-```
-The frontend will be available at `http://127.0.0.1:8000`.
 
 ### 2. Backend & Model Setup
 The backend is served via FastAPI and runs inside a Docker container.
