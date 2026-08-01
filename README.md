@@ -4,10 +4,19 @@ A full-stack facial recognition system built using a **Siamese Convolutional Neu
 The system performs face verification by learning embeddings and comparing similarity scores.  
 It is served through a **FastAPI backend**, connected to a **Next.js frontend**, and fully containerized using **Docker Compose** for reproducible deployment.
 
-
 ## Demo
-Watch the application in action: [View Demo Video]([https://youtu.be/P-IIM5gznRc](https://www.youtube.com/watch?v=Yf_uOw9IzcQ))
+Watch the application in action: [View Demo Video](https://youtu.be/Yf_uOw9IzcQ?si=U6QqRs9lNDC5SXho)
 
+---
+
+## Installation & Setup
+
+### 1. Frontend Setup
+```bash
+cd Frontend
+npm install
+npm install next@latest react@latest react-dom@lates
+npm run dev
 ---
 
 ## Installation & Setup
